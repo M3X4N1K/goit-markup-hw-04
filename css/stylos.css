@@ -374,7 +374,7 @@ a {
   transform: translateY(0%);
 }
 
-.portfolio-image-wrapper {
+.portfolio-image {
   position: relative;
   overflow: hidden;
 }
