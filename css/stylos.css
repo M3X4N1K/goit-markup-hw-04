@@ -190,7 +190,7 @@ a {
 .benefits {
   padding-top: 120px;
   padding-bottom: 120px;
-  text-align: left;
+
 }
 
 .visually-hidden {
@@ -209,6 +209,7 @@ a {
 .benefits-list {
   display: flex;
   gap: 24px;
+  text-align: left;
 }
 
 .benefit-icon-box {
@@ -332,7 +333,7 @@ a {
 .portfolio-section {
   padding-top: 120px;
   padding-bottom: 120px;
-  text-align: left;
+
 }
 
 .portfolio-title {
@@ -350,6 +351,7 @@ a {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+  text-align: left;
 }
 
 .portfolio-item {
