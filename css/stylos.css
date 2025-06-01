@@ -307,10 +307,7 @@ a {
   justify-content: center;
 }
 
-.icon-insta:hover {
-  background-color: #404bbf;
-}
-
+.icon-insta:hover,
 .icon-insta:focus {
   background-color: #404bbf;
 }
