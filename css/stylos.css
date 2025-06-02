@@ -427,13 +427,7 @@ img {
   align-items: baseline;
 }
 
-.logo-text {
-  padding-top: 100px;
-  padding-bottom: 100px;
-  padding-left: 156px;
 
-  margin-right: 120px;
-}
 
 .footer-social-text {
   font-weight: 500;
@@ -472,6 +466,14 @@ img {
 
 .footer-social-icons {
   fill: #f4f4fd;
+}
+
+.logo-text {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 156px;
+
+  margin-right: 120px;
 }
 
 .visually-hidden {
