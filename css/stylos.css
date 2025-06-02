@@ -422,9 +422,9 @@ img {
   color: #f4f4fd;
 }
 
-.footer-main-content {
+.footer-wrapper {
   display: flex;
-  align-items: baseline;
+
 }
 
 .logo-text {
