@@ -418,10 +418,11 @@ img {
 }
 
 .container {
-  max-width: 1158px;
-  padding-left: 15px;
-  padding-right: 15px;
-  margin: 0 auto;
+  .container {
+    max-width: 1158;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
 }
 
 .footer-main-content {
