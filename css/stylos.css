@@ -422,13 +422,13 @@ img {
   color: #f4f4fd;
 }
 
-.footer-wrapper {
+.footer-main-content {
   display: flex;
-
+  align-items: baseline;
 }
 
 .logo-text {
-  margin-right: 120px;
+  padding: 100px;
   padding-left: 156px;
 }
 
