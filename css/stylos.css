@@ -403,6 +403,8 @@ img {
 
 .page-footer {
   background-color: #2e2f42;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .footer-text {
@@ -422,12 +424,21 @@ img {
   color: #f4f4fd;
 }
 
+.container {
+  max-width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
 .footer-main-content {
   display: flex;
   align-items: baseline;
 }
 
+.logo-text {
+  margin-right: 120px;
 
+}
 
 .footer-social-text {
   font-weight: 500;
@@ -468,8 +479,6 @@ img {
   fill: #f4f4fd;
 }
 
-
-
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -481,21 +490,4 @@ img {
   clip: rect(0, 0, 0, 0);
   clip-path: inset(100%);
   border: 0;
-}
-
-/*redact footer 03-06-25*/
-
-.footer-main-content {
-  display: flex;
-  align-items: baseline;
-}
-
-.logo-text {
-  padding-top: 100px;
-  padding-bottom: 100px;
-  padding-right: 120px;
-}
-
-.logo {
-  margin-bottom: 16px;
 }
