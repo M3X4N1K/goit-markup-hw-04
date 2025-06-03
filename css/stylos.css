@@ -485,6 +485,10 @@ img {
 
 /*redact footer 03-06-25*/
 
+.footer-main-content {
+  display: flex;
+}
+
 .logo-text {
   padding: 100px 120px 100px 156px
 }
